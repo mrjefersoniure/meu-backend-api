@@ -106,9 +106,9 @@ export const LoginForm: React.FC<LoginFormProps> = ({ onLogin, loginForm, setLog
                   Entrar no Sistema
                 </button>
               </form>
-              /*<div className="mt-8 pt-6 border-t border-black/5 text-center">
+              <!-- <div className="mt-8 pt-6 border-t border-black/5 text-center">
                 <p className="text-[10px] text-black/30 uppercase tracking-widest font-bold">Dica: use admin/admin123 ou user/user123</p>
-              </div> */
+              </div> -->
             </motion.div>
           ) : (
             <motion.div
